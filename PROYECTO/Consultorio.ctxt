@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Consultorio
+comment1.params=
+comment1.target=Consultorio()
+comment10.params=
+comment10.target=int\ getNroConsul()
+comment2.params=medico\ dia\ hora\ nroConsul
+comment2.target=Consultorio(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=medico
+comment3.target=void\ setMedico(java.lang.String)
+comment4.params=dia
+comment4.target=void\ setDia(java.lang.String)
+comment5.params=hora
+comment5.target=void\ setHora(java.lang.String)
+comment6.params=nroConsul
+comment6.target=void\ setNroConsul(int)
+comment7.params=
+comment7.target=java.lang.String\ getMedico()
+comment8.params=
+comment8.target=java.lang.String\ getDia()
+comment9.params=
+comment9.target=java.lang.String\ getHora()
+numComments=11

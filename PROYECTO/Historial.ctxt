@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Historial
+comment1.params=
+comment1.target=Historial()
+comment10.params=
+comment10.target=java.lang.String\ getPaciente()
+comment11.params=
+comment11.target=java.lang.String\ getDescripcion()
+comment12.params=
+comment12.target=int\ getNroConsul()
+comment2.params=NroConsul\ medico\ administrativo\ paciente\ descripcion
+comment2.target=Historial(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=medico
+comment3.target=void\ setMedico(java.lang.String)
+comment4.params=administrativo
+comment4.target=void\ setAdministrativo(java.lang.String)
+comment5.params=paciente
+comment5.target=void\ setPaciente(java.lang.String)
+comment6.params=descripcion
+comment6.target=void\ setDescripcion(java.lang.String)
+comment7.params=NroConsul
+comment7.target=void\ setNroConsul(int)
+comment8.params=
+comment8.target=java.lang.String\ getMedico()
+comment9.params=
+comment9.target=java.lang.String\ getAdministrativo()
+numComments=13
