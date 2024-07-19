@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VentanaConsulta
+comment1.params=
+comment1.target=VentanaConsulta()
+comment2.params=
+comment2.target=void\ RegistrarConsulta()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

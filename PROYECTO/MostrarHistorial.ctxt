@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MostrarHistorial
+comment1.params=
+comment1.target=MostrarHistorial()
+comment2.params=
+comment2.target=void\ ImprimirHistorial()
+comment3.params=
+comment3.target=void\ ModificarHistorial()
+comment4.params=
+comment4.target=void\ EliminarHistorial()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

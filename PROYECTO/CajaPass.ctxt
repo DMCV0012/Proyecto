@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CajaPass
+comment1.params=px\ py\ tx\ ty
+comment1.target=CajaPass(int,\ int,\ int,\ int)
+numComments=2

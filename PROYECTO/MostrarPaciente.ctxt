@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MostrarPaciente
+comment1.params=
+comment1.target=MostrarPaciente()
+comment2.params=
+comment2.target=void\ ImprimirPaciente()
+comment3.params=
+comment3.target=void\ ModificarPaciente()
+comment4.params=
+comment4.target=void\ EliminarPaciente()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

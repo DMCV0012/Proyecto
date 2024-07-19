@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Boton
+comment1.params=txt\ px\ py\ tx\ ty
+comment1.target=Boton(java.lang.String,\ int,\ int,\ int,\ int)
+numComments=2
